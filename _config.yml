@@ -1,4 +1,4 @@
-title: 백엔드 개발자의 블로그
+title: nickolodeon_devBlog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Seunghwan # add your name
 author-img: 123456.png # add your photo
-about-author: I am a web developer focusing on back-end development. Always hungry to keep learning. # add description
+about-author: Junior web back-end developer. Interested in Sci-fi and a pinch of neuroscience. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Nickolodeon98 # add your Github handle
